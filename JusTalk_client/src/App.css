@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+}
+
+::placeholder {
+  color: #141414;
+  opacity: 1;
+}
+
+input[type='file'].hidden{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    font-size: 50px;
+    cursor: pointer;
+    opacity: 0;
+    -moz-opacity: 0;
+    filter: Alpha(Opacity=0);
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #545557;
+}
+.item{
+  background-color:#181a1c
+}
+
+.item:hover{
+  background-color:#141414
+}
+
+
+.buttonLogin{
+  background-color:#75a950;
+}
+
+.buttonLogin:hover{
+  background-color:#87c25c
+}
+
+.buttonAddFriend{
+  background-color:#1d1f20
+}
+
+.buttonAddFriend:hover{
+  background-color:#141414
+}
+
+.buttonLogout{
+  background-color:#ee5253
+}
+
+.buttonLogout:hover{
+  background-color:#ff6b6b
+}
+
+.buttonAddGroup{
+  background-color:#75a950
+}
+
+.buttonAddGroup:hover{
+  background-color:#87c25c
+}

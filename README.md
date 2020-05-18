@@ -3,10 +3,10 @@
 </p>
 
 <h2 align="center">
-  JusTalk is a real-time web chat application 
+  JusTalk is a real-time web chat application
 </h2>
 
-<h4 align="center"> Demo : https://justalk-app.herokuapp.com </h4>
+<h4 align="center"> Demo : https://justalk-app.herokuapp.com  :computer: </h4>
 
 ![Screenshot](/screenshot/JusTalk.gif)
 

@@ -27,6 +27,5 @@
 * Search user
 * user Last seen / online
 * Create group
-* Send message to user
-* Send message to group
+* Send and receive messages with users and groups
 * Support Emoji
